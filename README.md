@@ -8,6 +8,7 @@ I raised concerns about target leakage and the suitability of the data science a
 
 The repo here demonstrates the issues I noted.  The repo is a [clone of the original analysis](https://github.com/phoebemrdevries/Learning-aftershock-location-patterns).  To understand the issues, work through the notebook, [Exploratory Analysis](https://github.com/rajshah4/aftershocks_issues/blob/master/Exploratory%20Analysis.ipynb).  To run these, you will need the data, which is available at on [google drive](https://drive.google.com/drive/folders/1lAHfdjFd-Uv3wJcA0Tk2ViDIZeFt0mCA?usp=sharing).  You may also want to see how the original test/train splits were conducted at [DeVries processing repo](https://github.com/phoebemrdevries/Process-Srcmod-Files).
 
+To run the notebook, the code is using Python 3 and you must first download the data and put it in an adjoining folder to the repo.
 
 The notebook has four sections:
 
