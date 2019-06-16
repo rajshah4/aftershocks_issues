@@ -20,7 +20,7 @@ The notebook has four sections:
 
 I want to thank Lukas Innig and Shubham Cheema for their assistance, as well as all the great data scientists at DataRobot which supported me through this process.
 
-Recently, I found papers by Arnaud Mignan and Marco Broccardo that identifies issues in the aftershocks paper, see:
+Recently, I found papers by Arnaud Mignan and Marco Broccardo that identify issues in the aftershocks paper, see:
 *One neuron is more informative than a deep neural network for aftershock pattern forecasting*, [Arxiv](https://arxiv.org/abs/1904.01983) and *A Deeper Look into ‘Deep Learning of Aftershock Patterns Following Large Earthquakes’: Illustrating First Principles in Neural Network Physical Interpretability* - [Springer](https://link.springer.com/chapter/10.1007/978-3-030-20521-8_1)
 
 
