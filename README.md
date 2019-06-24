@@ -2,7 +2,7 @@
 ## Issues with Deep Learning of Aftershocks by DeVries
 
 
-This repo focuses on issues noted by me on by DeVries, et al., *[Deep learning of aftershock patterns following large Earthquakes](https://www.nature.com/articles/s41586-018-0438-y )* or via [sci-hub](https://sci-hub.tw/http://www.nature.com/articles/s41586-018-0438-y).  This article has been widely used as a motivation for using deep learning, e.g., [Tensorflow 2.0 release notes](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8).  
+This repo focuses on issues noted by me on by DeVries, et al., *[Deep learning of aftershock patterns following large Earthquakes](https://www.nature.com/articles/s41586-018-0438-y )* or via [sci-hub](https://sci-hub.se/http://www.nature.com/articles/s41586-018-0438-y).  This article has been widely used as a motivation for using deep learning, e.g., [Tensorflow 2.0 release notes](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8).  
 
 I raised concerns about target leakage and the suitability of the data science approach to both the author and Nature.  Nature reviewed my concerns and decided not to act.  You can view the detail of this communication in the [correspondence folder](https://github.com/rajshah4/aftershocks_issues/tree/master/correspondence).  
 
